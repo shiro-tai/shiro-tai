@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Shiro. Currently i studying programming. I understand english enough to read. 
+- 👋 Hi, I’m Marcos. Currently i studying programming. I understand english enough to read. 
 - 👀 I’m interested in programming, game development and digital art/design.
 - 🌱 I’m currently learning Unity, C, C++, C# and Python.
 - 💞️ I’m looking to collaborate on game projects and design projects.
