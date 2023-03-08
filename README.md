@@ -1,5 +1,5 @@
 
-## <a> Hey there! I'm *Marcos Moura* and welcome to my perfil! </a> <img src="https://user-images.githubusercontent.com/69879002/166835308-6aa3a5e8-17b9-4418-8ed8-c2d48b959269.png" width= "70" >
+## <img src="https://user-images.githubusercontent.com/69879002/166835308-6aa3a5e8-17b9-4418-8ed8-c2d48b959269.png" width= "70" > <a> Hey there! I'm *Marcos Moura* and welcome to my perfil! </a> <img src="https://user-images.githubusercontent.com/69879002/166835308-6aa3a5e8-17b9-4418-8ed8-c2d48b959269.png" width= "70" >
 
 * 👋 **Computer Engineering student. Developer and digital designer**
 * 👀 **I’m interested in programming, game development and digital art/design.**
