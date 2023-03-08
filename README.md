@@ -3,7 +3,7 @@
 
 * 👋 **Computer Engineering student. Developer and digital designer**
 * 👀 **I’m interested in programming, game development and digital art/design.**
-* 🌱 **I’m currently learning Unity, C# and Python.**
+* 🌱 **I’m currently learning Nodejs, html, css, javascript.**
 * 💞️ **I’m looking to collaborate on game projects and design projects.**
 
 
