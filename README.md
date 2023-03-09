@@ -18,8 +18,10 @@
 <li> <strong> <p> I’m looking to collaborate on game projects and design projects in the future. At the moment, i just have my imagination and some notes of projects that i will be able to do sometime.</p> </strong>  </li>
 </ul>
 
-<div align="center"> Slow and steady~ <img src="https://user-images.githubusercontent.com/69879002/223880302-2d675470-f5d3-48f9-941a-2e17447c4118.png" width="70">
+<strong> Contact </strong>
 
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0077B5?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/SEU_LINK/)](https://www.linkedin.com/in/marcos-mouraec/)
+[![Email Badge](https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:SEU_EMAIL)](mailto:marcos.mouraec@gmail.com)
 
 <div align="center">
   <br>
@@ -29,4 +31,7 @@
   <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shiro-tai&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
 
+<br><br><br><br><br><br><br><br>
+  
+  <div align="center"> <em>Slow and Steady...</em> <img src="https://user-images.githubusercontent.com/69879002/223885529-89140c0d-ccd2-4fd2-a1b8-99ad82a4c34c.png" width="70"> </div>
 
