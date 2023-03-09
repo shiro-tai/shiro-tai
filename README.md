@@ -12,7 +12,7 @@
 <strong> About me... </strong> <img src="https://user-images.githubusercontent.com/69879002/223880005-c20dc5b5-b0cf-4e20-8a80-25239bfb5017.png" width="70"> 
 
 <ul>
-<li> <strong> <p> A Computer Engineering student at the moment. Not very experienced in development but i'm learning! i have some experience in digital desig (Phtoshop, Illustrator, InDesign) </p> </strong>  </li> 
+<li> <strong> <p> I'm currently a computer engineering student and still learning about development, so I don't have much experience yet. I have some experience in digital design (Phtoshop, Illustrator, InDesign) </p> </strong>  </li> 
 <li> <strong> <p> I’m interested in programming, game development and digital art/design.</p> </strong>  </li>
 <li> <strong> <p> My actual studies are in Nodejs, html, css, javascript.</p> </strong>  </li>
 <li> <strong> <p> I’m looking to collaborate on game projects and design projects in the future. At the moment, i just have my imagination and some notes of projects that i will be able to do sometime.</p> </strong>  </li>
