@@ -14,8 +14,8 @@
 <ul>
 <li> <strong> <p> I'm currently a computer engineering student and still learning about development, so I don't have much experience yet. I have some experience in digital design (Phtoshop, Illustrator, InDesign) </p> </strong>  </li> 
 <li> <strong> <p> I’m interested in programming, game development and digital art/design.</p> </strong>  </li>
-<li> <strong> <p> My actual studies are in Nodejs, html, css, javascript.</p> </strong>  </li>
-<li> <strong> <p> I’m looking to collaborate on game projects and design projects in the future. At the moment, i just have my imagination and some notes of projects that i will be able to do sometime.</p> </strong>  </li>
+<li> <strong> <p> I am currently studying Nodejs, HTML, CSS, and JavaScript.</p> </strong>  </li>
+<li> <strong> <p> While I'm currently limited to my imagination and some project notes, I'm eager to develop my skills and contribute to exciting projects.</p> </strong>  </li>
 </ul>
 
 <strong> Contact </strong>
